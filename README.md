@@ -1,4 +1,5 @@
 👋 About Me
+
 Hi, I'm a software engineer with 3+ years of hands-on experience building scalable, cloud-native applications using modern backend and frontend technologies. I've worked across startups in Hong Kong, contributing to everything from microservices and event-driven architectures to secure video streaming and CI/CD automation.
 
 🔧 What I Do:
