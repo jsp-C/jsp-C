@@ -1,8 +1,3 @@
-# 💫 About Me:
-
-<br>👋 Hi, I'm a software engineer with 3+ years of hands-on experience building scalable, cloud-native applications using modern backend and frontend technologies. I've worked across startups in Hong Kong, contributing to everything from microservices and event-driven architectures to secure video streaming and CI/CD automation.<br><br>🔧 What I Do:<br><br>Develop scalable services with Node.js, NestJS, and Spring Boot<br><br>Build responsive UIs with React.js and Next.js and mobile app with React Native<br><br>Deploy and monitor applications using Docker, AWS ECS/EKS, Terraform, and Serverless<br><br>Enhance reliability with automated testing, CI/CD pipelines, and observability tools.<br><br>🌱📫 Let’s Connect:<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasper-cheung-ba5123b4) 
 
